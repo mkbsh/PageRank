@@ -1,4 +1,4 @@
-# STEP_4
+# PageRank
 Java implementation of PageRank algorithm
 
 The text file needs to be in this form to be properly parsed:  
